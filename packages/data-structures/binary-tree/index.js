@@ -29,3 +29,5 @@ const binaryTree = {
 }
 
 console.log(sumBinaryTreeValues(binaryTree)) // 10
+
+module.export = sumBinaryTreeValues
